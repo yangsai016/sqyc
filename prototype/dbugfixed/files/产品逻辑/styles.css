@@ -4690,28 +4690,35 @@
 #u460_seg1 {
   position:absolute;
   left:457px;
-  top:-1413px;
+  top:-1527px;
   width:8px;
-  height:1417px;
+  height:1531px;
 }
 #u460_seg2 {
   position:absolute;
-  left:-121px;
-  top:-1413px;
-  width:586px;
+  left:-125px;
+  top:-1527px;
+  width:590px;
   height:8px;
 }
 #u460_seg3 {
   position:absolute;
-  left:-128px;
-  top:-1419px;
+  left:-125px;
+  top:-1540px;
+  width:8px;
+  height:21px;
+}
+#u460_seg4 {
+  position:absolute;
+  left:-131px;
+  top:-1547px;
   width:20px;
   height:20px;
 }
 #u461 {
   position:absolute;
   left:411px;
-  top:-773px;
+  top:-838px;
   width:100px;
   visibility:hidden;
   word-wrap:break-word;
